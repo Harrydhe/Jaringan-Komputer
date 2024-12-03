@@ -1,5 +1,10 @@
 # Jaringan-Komputer
 
+## Ini adalah Tugas dan UAS Jaringan Komputer
+**Nama: Harry Darmawan**  
+**NRP: 1224800015**
+
+
 ## Socket Programming
 Untuk Socket Programming, klik link dibawah ini:
 
