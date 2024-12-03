@@ -27,3 +27,5 @@ https://github.com/Harrydhe/Tugas-Jarkom-DNS-SMTP
 Untuk UAS , klik link dibawah ini :
 
 https://github.com/Harrydhe/UAS-Jarkom
+
+Terimakasih
