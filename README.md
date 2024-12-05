@@ -33,4 +33,12 @@ Untuk UAS , klik link dibawah ini :
 
 https://github.com/Harrydhe/UAS-Jarkom
 
+## VIDEO PENJELASAN UAS 
+
+
+
+https://github.com/user-attachments/assets/1a9a800d-8525-4ca5-8f9e-78ed437104bf
+
+
+
 _**Terimakasih**_
